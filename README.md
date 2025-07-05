@@ -13,6 +13,7 @@ DURATION : 8 WEEKS
 MENTOR : NEELA SANTOSH
 
 #DESCRIPITION
+
 A recommendation system, also known as a recommender system, is a type of intelligent algorithm used to suggest relevant items to users. These systems have become an essential component in many online platforms, including e-commerce, streaming services, social media, and more. Their primary function is to filter and present the most relevant information or products based on users’ preferences, behavior, and interactions.
 
 What is a Recommendation System?
@@ -96,3 +97,6 @@ With the rise of artificial intelligence and big data, recommendation systems ar
 
 In conclusion, recommendation systems play a crucial role in today’s digital world by helping users navigate vast amounts of content. They not only enhance the user experience but also provide businesses with tools to drive engagement and growth. As technology continues to advance, recommendation systems will become even more intelligent, personalized, and impactful.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/3927ebd4-6ba4-4e13-96b5-81ce71c16764)
